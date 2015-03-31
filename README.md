@@ -3,4 +3,3 @@
 Re-creation of clowns/bears from Chef Fundamentals
 - Moar Features!
 - Another Change.
-- Change #3
